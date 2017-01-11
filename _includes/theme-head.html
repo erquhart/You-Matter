@@ -1,0 +1,48 @@
+<head>
+
+    <meta charset="utf-8" />
+    <title>{{site.title}}</title>
+    {% if site.favicon %}
+    <link rel="shortcut icon" type="image/x-icon" href="{{site.favicon}}">
+    {% endif %}
+
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="stylesheet" href="assets/css/fonts.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap-theme.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.5.4/bootstrap-select.min.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/draganddrop.css" type="text/css" />
+    <style>
+      ul,	li{ list-style:none; }
+    </style>
+
+
+    <!-- JS (load angular, ui-router, and our custom js file) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    
+    <!-- DIRECTIVES -->
+
+    <script type="text/javascript">
+      $(document).ready(function () {
+
+        $("#nav a.menu_res").click(function (e) {
+            e.preventDefault();
+
+            if($("#nav").find('.activemenu').length > 0){
+                $(".nav_inner").css("left","-200px");
+                $(this).removeClass("activemenu");
+            } else {
+                $(".nav_inner").css("left","0");
+                $(this).addClass("activemenu");
+            }
+            $(".nav_inner").addClass("done");
+            $("body").addClass("bigsize");
+
+        });
+    });
+    </script>
+</head>
