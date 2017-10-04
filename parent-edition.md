@@ -1,15 +1,15 @@
 ---
+title: AAC Training for Education and Families
+permalink: /parent-edition
+seo-title: Parent Edition | You Matter - Ace Centre
+description: A course that brings together parents of children with significant speech difficulties and their supporting professionals
 layout: theme
-title: "Parent Edition"
-bg: blue3  #defined in _config.yml, can use html color like '#0fbfcf'
-color: white   #text color
-fa-icon: users
 ---
 
 A course that brings together parents of children with significant speech difficulties and their supporting professionals
 You Matter Parent Edition aims to support and empower parents and professionals caring for children who use aided communication (Augmentative and Alternative Communication). This includes children who use communication aids and children who use symbol-based communication books or charts.
 
-The two-day course explores: 
+The two-day course explores:
 
 * How aided communication develops
 * How to select appropriate vocabulary for a child
@@ -29,7 +29,7 @@ An optional half day session is suggested that addresses any technical issues th
 ## What’s Included
 
 * Printed Tutor Guide
-* Powerpoint presentation with video 
+* Powerpoint presentation with video
 * Tutor’s copy of the Resource Pack (contains all required handouts)
 * Ten printed Participant Guides
 * Ten copies of the Resource Pack

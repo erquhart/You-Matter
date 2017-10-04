@@ -1,11 +1,10 @@
 ---
+title: Reviews
+permalink: /reviews
+seo-title: Reviews | You Matter - Ace Centre
+description: What people say about You Matter. Testimonials and feedback form parents, tutors and others.
 layout: theme
-title: "Reviews"
-bg: blue1  #defined in _config.yml, can use html color like '#0fbfcf'
-color: white   #text color
-fa-icon: comments
 ---
-
 
 > “All the staff who helped run the course came away with a huge feeling of satisfaction that we had really made a difference and helped these parents on their respective journeys with AAC” - tutor feedback
 

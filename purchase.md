@@ -1,10 +1,13 @@
 ---
+title: Purchase
+permalink: /purchase
+seo-title: Purchase | You Matter - Ace Centre
+description: A course that brings together parents of children with significant speech difficulties and their supporting professionals
 layout: theme
-title: "Purchase"
-bg: yellow  #defined in _config.yml, can use html color like '#0fbfcf'
-color: white   #text color
-fa-icon: shopping-cart
+main-image:
+  location: you-matter.png
+  alt: You Matter
 ---
 
-## See [ACECentre website](http://acecentre.org.uk/you-matter1) for details
+## See [Ace Centre website](https://acecentre.org.uk/project/you-matter/) for details
 
