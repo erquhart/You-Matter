@@ -1,8 +1,9 @@
 ---
 title: Reviews
-permalink: /reviews
+permalink: "/reviews"
 seo-title: Reviews | You Matter - Ace Centre
-description: What people say about You Matter. Testimonials and feedback form parents, tutors and others.
+description: What people say about You Matter. Testimonials and feedback form parents,
+  tutors and others.
 layout: theme
 ---
 

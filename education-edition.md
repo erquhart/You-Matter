@@ -1,8 +1,9 @@
 ---
 title: AAC Training for Education and Families
-permalink: /education-edition
+permalink: "/education-edition"
 seo-title: Education Edition | You Matter - Ace Centre
-description: Education Edition aims to support and empower professionals working with children who use aided communication
+description: Education Edition aims to support and empower professionals working with
+  children who use aided communication
 layout: theme
 ---
 

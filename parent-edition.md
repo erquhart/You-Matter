@@ -1,8 +1,9 @@
 ---
 title: AAC Training for Education and Families
-permalink: /parent-edition
+permalink: "/parent-edition"
 seo-title: Parent Edition | You Matter - Ace Centre
-description: A course that brings together parents of children with significant speech difficulties and their supporting professionals
+description: A course that brings together parents of children with significant speech
+  difficulties and their supporting professionals
 layout: theme
 ---
 
